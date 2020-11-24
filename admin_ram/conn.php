@@ -1,0 +1,1 @@
+  <?php $dbcon = new MySQLi("localhost","root","","modelshop");?>
